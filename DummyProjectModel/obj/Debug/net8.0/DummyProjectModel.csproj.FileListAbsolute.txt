@@ -1,0 +1,11 @@
+C:\Users\DELL\Source\Repos\DummyProject\DummyProjectModel\bin\Debug\net8.0\DummyProjectModel.deps.json
+C:\Users\DELL\Source\Repos\DummyProject\DummyProjectModel\bin\Debug\net8.0\DummyProjectModel.dll
+C:\Users\DELL\Source\Repos\DummyProject\DummyProjectModel\bin\Debug\net8.0\DummyProjectModel.pdb
+C:\Users\DELL\Source\Repos\DummyProject\DummyProjectModel\obj\Debug\net8.0\DummyProjectModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Source\Repos\DummyProject\DummyProjectModel\obj\Debug\net8.0\DummyProjectModel.AssemblyInfoInputs.cache
+C:\Users\DELL\Source\Repos\DummyProject\DummyProjectModel\obj\Debug\net8.0\DummyProjectModel.AssemblyInfo.cs
+C:\Users\DELL\Source\Repos\DummyProject\DummyProjectModel\obj\Debug\net8.0\DummyProjectModel.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Source\Repos\DummyProject\DummyProjectModel\obj\Debug\net8.0\DummyProjectModel.dll
+C:\Users\DELL\Source\Repos\DummyProject\DummyProjectModel\obj\Debug\net8.0\refint\DummyProjectModel.dll
+C:\Users\DELL\Source\Repos\DummyProject\DummyProjectModel\obj\Debug\net8.0\DummyProjectModel.pdb
+C:\Users\DELL\Source\Repos\DummyProject\DummyProjectModel\obj\Debug\net8.0\ref\DummyProjectModel.dll

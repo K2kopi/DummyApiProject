@@ -1,0 +1,11 @@
+C:\Users\DELL\Source\Repos\DummyProject\DummyProject.Utility\bin\Debug\net8.0\DummyProject.Utility.deps.json
+C:\Users\DELL\Source\Repos\DummyProject\DummyProject.Utility\bin\Debug\net8.0\DummyProject.Utility.dll
+C:\Users\DELL\Source\Repos\DummyProject\DummyProject.Utility\bin\Debug\net8.0\DummyProject.Utility.pdb
+C:\Users\DELL\Source\Repos\DummyProject\DummyProject.Utility\obj\Debug\net8.0\DummyProject.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Source\Repos\DummyProject\DummyProject.Utility\obj\Debug\net8.0\DummyProject.Utility.AssemblyInfoInputs.cache
+C:\Users\DELL\Source\Repos\DummyProject\DummyProject.Utility\obj\Debug\net8.0\DummyProject.Utility.AssemblyInfo.cs
+C:\Users\DELL\Source\Repos\DummyProject\DummyProject.Utility\obj\Debug\net8.0\DummyProject.Utility.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Source\Repos\DummyProject\DummyProject.Utility\obj\Debug\net8.0\DummyProject.Utility.dll
+C:\Users\DELL\Source\Repos\DummyProject\DummyProject.Utility\obj\Debug\net8.0\refint\DummyProject.Utility.dll
+C:\Users\DELL\Source\Repos\DummyProject\DummyProject.Utility\obj\Debug\net8.0\DummyProject.Utility.pdb
+C:\Users\DELL\Source\Repos\DummyProject\DummyProject.Utility\obj\Debug\net8.0\ref\DummyProject.Utility.dll
